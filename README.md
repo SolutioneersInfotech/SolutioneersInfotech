@@ -14,7 +14,7 @@ At Solutioneers Infotech, we are passionate about building powerful, reliable, a
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SolutioneersInfotech&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Stay Motivated
+### Solutioneers' approach
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Top Contributed Repo
